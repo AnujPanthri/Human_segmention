@@ -19,7 +19,9 @@ here are some results:
 Ideas for version 2 !
 
 train without batch normalization as it was causing problems.
+
 train longer till it stops to improve val loss.
+
 train with data augmentation.
 
 play with the model's architecture as i was think i should use different filter sizes like (3,3),(5,5),(7,7).
