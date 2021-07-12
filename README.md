@@ -31,6 +31,7 @@ change the model maybe use deeplab v3+ as it is the state of the art rn.
 Version 2: using deeplab v3+
 
 here are some results:
+
 ![alt text](https://github.com/AnujPanthri/Human_segmention/blob/main/deeplab%20outputs/download%20(2).png?raw=True)
 ![alt text](https://github.com/AnujPanthri/Human_segmention/blob/main/deeplab%20outputs/download%20(3).png?raw=True)
 ![alt text](https://github.com/AnujPanthri/Human_segmention/blob/main/deeplab%20outputs/download%20(4).png?raw=True)
