@@ -1,6 +1,6 @@
 # Human_segmention
 
-#Note:while using batch normalization always use a bigger batch size and be careful that the last batch is equal to batch size.(or no. of training samples are completely divisible with batch size)
+# Note:while using batch normalization always use a bigger batch size and be careful that the last batch is equal to batch size.(or no. of training samples are completely divisible with batch size)
 
 Version 1:
 using dice_bce loss and batch normalization
